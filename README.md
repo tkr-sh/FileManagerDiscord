@@ -55,13 +55,16 @@ As in bash, this command allows you to get your current location. You can also s
 Syntax: `pwd`
 
 ### touch
+
 This command isn't the same as in Bash. This command creates a "file" (which is just a tag for the XML), and maps the ID of a discord message to it. If you don't understand the utility of that, you'll understand it with the next command `c`
+
 <img src="img/touch.png">
 
 Syntax: `touch {name_of_the_file} {id_of_the_message}`
 
 ### c
 The command c (see) allows user to see the "content" of a file. Because we created a file with the ID of a message in it, this command, will show the message that correspond to the ID
+
 <img src="img/c.png">
 
 Syntax: `c {name_of_the_file}`
