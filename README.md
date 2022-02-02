@@ -99,6 +99,7 @@ Syntax: `mv {type (dir or file)} {name_of_the_file_or_dir_you_want_to_mv} > {dir
 
 ### mv..
 This command is the same as cd.. for cd but for mv. If you want to move a file or a directory to the directory before the one you are in, use mv.
+
 <img src="img/mv...png">
 
 Syntax: `mv.. {type (dir or file)} {name_of_the_file_or_dir_you_want_to_mv}`
