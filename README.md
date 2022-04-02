@@ -1,7 +1,7 @@
 # File Manager Discord
 ## What is the purpose of this program ?
 
-This program is made for a Discord bot. Its purpose is to organize the messages sent in a clear and structured way, thanks to files and directories. The whole database is made in XML. However, people do not interact directly with this database, but write commands on a channel, which are processed by the bot to interact with the XML file. The commands are simple and inspired by bash.
+This program is made for a Discord bot. It's purpose is to organize the messages sent in a clear and structured way, thank's to files and directories. The whole database is made in XML. However, people do not interact directly with this database, but write commands on a channel, which are processed by the bot to interact with the XML file. The commands are simple and inspired by bash.
 
 ## The commands
 ### ls
